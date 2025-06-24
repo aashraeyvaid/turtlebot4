@@ -1,0 +1,1 @@
+/home/aashraey-vaid/turtlebot4_ws/src/build/turtlebot4_gz_gui_plugins/ament_cmake_environment_hooks/local_setup.bash

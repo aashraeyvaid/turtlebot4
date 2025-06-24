@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/aashraey-vaid/turtlebot4_ws/src/build/turtlebot4_gz_gui_plugins/Turtlebot4Hmi/libTurtlebot4Hmi.so" "TARGETS" "Turtlebot4Hmi" "DESTINATION" "share/turtlebot4_gz_gui_plugins/lib")

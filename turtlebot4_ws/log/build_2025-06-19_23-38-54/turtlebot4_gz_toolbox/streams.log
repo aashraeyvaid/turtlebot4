@@ -1,0 +1,24 @@
+[0.067s] Invoking command in '/home/aashraey-vaid/turtlebot4_ws/build/turtlebot4_gz_toolbox': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/aashraey-vaid/turtlebot4_ws/build/turtlebot4_gz_toolbox -- -j8 -l8
+[0.345s] [ 60%] Built target turtlebot4_gz_toolbox_lib
+[0.468s] [100%] Built target turtlebot4_gz_hmi_node
+[1.106s] Invoked command in '/home/aashraey-vaid/turtlebot4_ws/build/turtlebot4_gz_toolbox' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/aashraey-vaid/turtlebot4_ws/build/turtlebot4_gz_toolbox -- -j8 -l8
+[1.146s] Invoking command in '/home/aashraey-vaid/turtlebot4_ws/build/turtlebot4_gz_toolbox': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/aashraey-vaid/turtlebot4_ws/build/turtlebot4_gz_toolbox
+[1.193s] -- Install configuration: ""
+[1.193s] -- Up-to-date: /home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_gz_toolbox/lib/turtlebot4_gz_toolbox/turtlebot4_gz_hmi_node
+[1.198s] -- Up-to-date: /home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_gz_toolbox/share/ament_index/resource_index/package_run_dependencies/turtlebot4_gz_toolbox
+[1.198s] -- Up-to-date: /home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_gz_toolbox/share/ament_index/resource_index/parent_prefix_path/turtlebot4_gz_toolbox
+[1.199s] -- Up-to-date: /home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/environment/ament_prefix_path.sh
+[1.204s] -- Up-to-date: /home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/environment/ament_prefix_path.dsv
+[1.204s] -- Up-to-date: /home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/environment/path.sh
+[1.204s] -- Up-to-date: /home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/environment/path.dsv
+[1.206s] -- Up-to-date: /home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/local_setup.bash
+[1.209s] -- Up-to-date: /home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/local_setup.sh
+[1.211s] -- Up-to-date: /home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/local_setup.zsh
+[1.212s] -- Up-to-date: /home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/local_setup.dsv
+[1.213s] -- Installing: /home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/package.dsv
+[1.214s] -- Up-to-date: /home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_gz_toolbox/share/ament_index/resource_index/packages/turtlebot4_gz_toolbox
+[1.214s] -- Up-to-date: /home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.218s] -- Up-to-date: /home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/cmake/turtlebot4_gz_toolboxConfig.cmake
+[1.218s] -- Up-to-date: /home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/cmake/turtlebot4_gz_toolboxConfig-version.cmake
+[1.219s] -- Up-to-date: /home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/package.xml
+[1.316s] Invoked command in '/home/aashraey-vaid/turtlebot4_ws/build/turtlebot4_gz_toolbox' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/aashraey-vaid/turtlebot4_ws/build/turtlebot4_gz_toolbox

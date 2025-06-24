@@ -1,0 +1,74 @@
+[0.046s] Invoking command in '/home/aashraey-vaid/turtlebot4_ws/src/build/turtlebot4_gz_toolbox': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/aashraey-vaid/turtlebot4_ws/src/turtlebot4_simulator/turtlebot4_gz_toolbox -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_toolbox
+[0.259s] -- The C compiler identification is GNU 13.3.0
+[0.450s] -- The CXX compiler identification is GNU 13.3.0
+[0.506s] -- Detecting C compiler ABI info
+[0.813s] -- Detecting C compiler ABI info - done
+[0.842s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.842s] -- Detecting C compile features
+[0.844s] -- Detecting C compile features - done
+[0.879s] -- Detecting CXX compiler ABI info
+[1.207s] -- Detecting CXX compiler ABI info - done
+[1.237s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.238s] -- Detecting CXX compile features
+[1.239s] -- Detecting CXX compile features - done
+[1.254s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.753s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.983s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.183s] -- Found rclcpp: 28.1.9 (/opt/ros/jazzy/share/rclcpp/cmake)
+[2.365s] -- Found rosidl_generator_c: 4.6.5 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[2.434s] -- Found rosidl_generator_cpp: 4.6.5 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[2.503s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.582s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.894s] -- Found rmw_implementation_cmake: 7.3.2 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[2.909s] -- Found rmw_fastrtps_cpp: 8.4.2 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[3.247s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[3.333s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[3.413s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.735s] -- Found rclcpp_action: 28.1.9 (/opt/ros/jazzy/share/rclcpp_action/cmake)
+[3.929s] -- Found std_msgs: 5.3.6 (/opt/ros/jazzy/share/std_msgs/cmake)
+[4.004s] -- Found sensor_msgs: 5.3.6 (/opt/ros/jazzy/share/sensor_msgs/cmake)
+[4.205s] -- Found turtlebot4_msgs: 2.0.1 (/opt/ros/jazzy/share/turtlebot4_msgs/cmake)
+[4.275s] -- Found ament_lint_auto: 0.17.2 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[4.752s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[4.753s] -- Configured cppcheck include dirs: /home/aashraey-vaid/turtlebot4_ws/src/turtlebot4_simulator/turtlebot4_gz_toolbox/include
+[4.753s] -- Configured cppcheck exclude dirs and/or files: 
+[4.757s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[4.757s] -- Configured cpplint exclude dirs and/or files: 
+[4.761s] -- Added test 'lint_cmake' to check CMake code style
+[4.765s] -- Added test 'uncrustify' to check C / C++ code style
+[4.766s] -- Configured uncrustify additional arguments: 
+[4.768s] -- Added test 'xmllint' to check XML markup files
+[4.779s] -- Configuring done (4.7s)
+[4.854s] -- Generating done (0.0s)
+[4.874s] -- Build files have been written to: /home/aashraey-vaid/turtlebot4_ws/src/build/turtlebot4_gz_toolbox
+[4.911s] Invoked command in '/home/aashraey-vaid/turtlebot4_ws/src/build/turtlebot4_gz_toolbox' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/aashraey-vaid/turtlebot4_ws/src/turtlebot4_simulator/turtlebot4_gz_toolbox -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_toolbox
+[4.915s] Invoking command in '/home/aashraey-vaid/turtlebot4_ws/src/build/turtlebot4_gz_toolbox': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/aashraey-vaid/turtlebot4_ws/src/build/turtlebot4_gz_toolbox -- -j8 -l8
+[5.096s] [ 20%] [32mBuilding CXX object CMakeFiles/turtlebot4_gz_toolbox_lib.dir/src/hmi_node.cpp.o[0m
+[5.097s] [ 40%] [32mBuilding CXX object CMakeFiles/turtlebot4_gz_toolbox_lib.dir/src/hmi_main.cpp.o[0m
+[36.666s] [ 60%] [32m[1mLinking CXX static library libturtlebot4_gz_toolbox_lib.a[0m
+[37.264s] [ 60%] Built target turtlebot4_gz_toolbox_lib
+[37.331s] [ 80%] [32mBuilding CXX object CMakeFiles/turtlebot4_gz_hmi_node.dir/src/hmi_main.cpp.o[0m
+[44.777s] [100%] [32m[1mLinking CXX executable turtlebot4_gz_hmi_node[0m
+[46.062s] [100%] Built target turtlebot4_gz_hmi_node
+[46.100s] Invoked command in '/home/aashraey-vaid/turtlebot4_ws/src/build/turtlebot4_gz_toolbox' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/aashraey-vaid/turtlebot4_ws/src/build/turtlebot4_gz_toolbox -- -j8 -l8
+[46.103s] Invoking command in '/home/aashraey-vaid/turtlebot4_ws/src/build/turtlebot4_gz_toolbox': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/aashraey-vaid/turtlebot4_ws/src/build/turtlebot4_gz_toolbox
+[46.129s] -- Install configuration: ""
+[46.130s] -- Execute custom install script
+[46.131s] -- Symlinking: /home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_toolbox/lib/turtlebot4_gz_toolbox/turtlebot4_gz_hmi_node
+[46.161s] -- Symlinking: /home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_toolbox/share/ament_index/resource_index/package_run_dependencies/turtlebot4_gz_toolbox
+[46.190s] -- Symlinking: /home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_toolbox/share/ament_index/resource_index/parent_prefix_path/turtlebot4_gz_toolbox
+[46.220s] -- Symlinking: /home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/environment/ament_prefix_path.sh
+[46.249s] -- Symlinking: /home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/environment/ament_prefix_path.dsv
+[46.278s] -- Symlinking: /home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/environment/path.sh
+[46.308s] -- Symlinking: /home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/environment/path.dsv
+[46.337s] -- Symlinking: /home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/local_setup.bash
+[46.366s] -- Symlinking: /home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/local_setup.sh
+[46.396s] -- Symlinking: /home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/local_setup.zsh
+[46.428s] -- Symlinking: /home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/local_setup.dsv
+[46.457s] -- Symlinking: /home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/package.dsv
+[46.486s] -- Symlinking: /home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_toolbox/share/ament_index/resource_index/packages/turtlebot4_gz_toolbox
+[46.516s] -- Symlinking: /home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/cmake/ament_cmake_export_include_directories-extras.cmake
+[46.546s] -- Symlinking: /home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/cmake/turtlebot4_gz_toolboxConfig.cmake
+[46.574s] -- Symlinking: /home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/cmake/turtlebot4_gz_toolboxConfig-version.cmake
+[46.605s] -- Symlinking: /home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/package.xml
+[46.640s] Invoked command in '/home/aashraey-vaid/turtlebot4_ws/src/build/turtlebot4_gz_toolbox' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/aashraey-vaid/turtlebot4_ws/src/build/turtlebot4_gz_toolbox

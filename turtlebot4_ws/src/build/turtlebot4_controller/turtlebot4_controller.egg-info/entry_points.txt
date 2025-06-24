@@ -1,0 +1,2 @@
+[console_scripts]
+test = turtlebot4_controller.test:main

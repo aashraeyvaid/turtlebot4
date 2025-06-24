@@ -1,0 +1,16 @@
+/home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/lib/libTurtlebot4Hmi.so
+/home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_gui_plugins/share/ament_index/resource_index/package_run_dependencies/turtlebot4_gz_gui_plugins
+/home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_gui_plugins/share/ament_index/resource_index/parent_prefix_path/turtlebot4_gz_gui_plugins
+/home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/environment/ament_prefix_path.sh
+/home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/environment/ament_prefix_path.dsv
+/home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/environment/path.sh
+/home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/environment/path.dsv
+/home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/local_setup.bash
+/home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/local_setup.sh
+/home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/local_setup.zsh
+/home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/local_setup.dsv
+/home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/package.dsv
+/home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_gui_plugins/share/ament_index/resource_index/packages/turtlebot4_gz_gui_plugins
+/home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/cmake/turtlebot4_gz_gui_pluginsConfig.cmake
+/home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/cmake/turtlebot4_gz_gui_pluginsConfig-version.cmake
+/home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/package.xml

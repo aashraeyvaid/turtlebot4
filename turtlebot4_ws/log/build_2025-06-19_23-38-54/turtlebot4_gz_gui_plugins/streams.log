@@ -1,0 +1,24 @@
+[0.079s] Invoking command in '/home/aashraey-vaid/turtlebot4_ws/build/turtlebot4_gz_gui_plugins': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/aashraey-vaid/turtlebot4_ws/build/turtlebot4_gz_gui_plugins -- -j8 -l8
+[0.314s] [  0%] Built target Turtlebot4Hmi_autogen_timestamp_deps
+[0.456s] [ 14%] Built target Turtlebot4Hmi_autogen
+[0.655s] [100%] Built target Turtlebot4Hmi
+[1.175s] Invoked command in '/home/aashraey-vaid/turtlebot4_ws/build/turtlebot4_gz_gui_plugins' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/aashraey-vaid/turtlebot4_ws/build/turtlebot4_gz_gui_plugins -- -j8 -l8
+[1.177s] Invoking command in '/home/aashraey-vaid/turtlebot4_ws/build/turtlebot4_gz_gui_plugins': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/aashraey-vaid/turtlebot4_ws/build/turtlebot4_gz_gui_plugins
+[1.219s] -- Install configuration: ""
+[1.220s] -- Up-to-date: /home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_gz_gui_plugins/share/ament_index/resource_index/package_run_dependencies/turtlebot4_gz_gui_plugins
+[1.237s] -- Up-to-date: /home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_gz_gui_plugins/share/ament_index/resource_index/parent_prefix_path/turtlebot4_gz_gui_plugins
+[1.238s] -- Up-to-date: /home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/environment/ament_prefix_path.sh
+[1.238s] -- Up-to-date: /home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/environment/ament_prefix_path.dsv
+[1.238s] -- Up-to-date: /home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/environment/path.sh
+[1.238s] -- Up-to-date: /home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/environment/path.dsv
+[1.239s] -- Up-to-date: /home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/local_setup.bash
+[1.239s] -- Up-to-date: /home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/local_setup.sh
+[1.239s] -- Up-to-date: /home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/local_setup.zsh
+[1.239s] -- Up-to-date: /home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/local_setup.dsv
+[1.240s] -- Installing: /home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/package.dsv
+[1.242s] -- Up-to-date: /home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_gz_gui_plugins/share/ament_index/resource_index/packages/turtlebot4_gz_gui_plugins
+[1.242s] -- Up-to-date: /home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/cmake/turtlebot4_gz_gui_pluginsConfig.cmake
+[1.242s] -- Up-to-date: /home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/cmake/turtlebot4_gz_gui_pluginsConfig-version.cmake
+[1.243s] -- Up-to-date: /home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/package.xml
+[1.243s] -- Up-to-date: /home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/lib/libTurtlebot4Hmi.so
+[1.243s] Invoked command in '/home/aashraey-vaid/turtlebot4_ws/build/turtlebot4_gz_gui_plugins' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/aashraey-vaid/turtlebot4_ws/build/turtlebot4_gz_gui_plugins

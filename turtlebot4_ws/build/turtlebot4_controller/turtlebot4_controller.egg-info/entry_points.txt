@@ -1,0 +1,3 @@
+[console_scripts]
+test = turtlebot4_controller.test:main
+test2 = turtlebot4_controller.test2:main

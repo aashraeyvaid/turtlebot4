@@ -1,0 +1,24 @@
+[2.789s] Invoking command in '/home/aashraey-vaid/turtlebot4_ws/src/build/turtlebot4_controller': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/aashraey-vaid/turtlebot4_ws/src/build/turtlebot4_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/aashraey-vaid/turtlebot4_ws/src/build/turtlebot4_controller/build --no-deps symlink_data
+[3.917s] running develop
+[4.753s] running egg_info
+[4.753s] creating turtlebot4_controller.egg-info
+[4.836s] writing turtlebot4_controller.egg-info/PKG-INFO
+[4.837s] writing dependency_links to turtlebot4_controller.egg-info/dependency_links.txt
+[4.838s] writing entry points to turtlebot4_controller.egg-info/entry_points.txt
+[4.839s] writing requirements to turtlebot4_controller.egg-info/requires.txt
+[4.839s] writing top-level names to turtlebot4_controller.egg-info/top_level.txt
+[4.840s] writing manifest file 'turtlebot4_controller.egg-info/SOURCES.txt'
+[4.992s] reading manifest file 'turtlebot4_controller.egg-info/SOURCES.txt'
+[4.994s] writing manifest file 'turtlebot4_controller.egg-info/SOURCES.txt'
+[5.063s] running build_ext
+[5.063s] Creating /home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_controller/lib/python3.12/site-packages/turtlebot4-controller.egg-link (link to .)
+[5.065s] Installing test script to /home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_controller/lib/turtlebot4_controller
+[5.066s] 
+[5.066s] Installed /home/aashraey-vaid/turtlebot4_ws/src/build/turtlebot4_controller
+[5.067s] running symlink_data
+[5.067s] creating /home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_controller/share/ament_index
+[5.067s] creating /home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_controller/share/ament_index/resource_index
+[5.068s] creating /home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_controller/share/ament_index/resource_index/packages
+[5.069s] symbolically linking /home/aashraey-vaid/turtlebot4_ws/src/build/turtlebot4_controller/resource/turtlebot4_controller -> /home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_controller/share/ament_index/resource_index/packages
+[5.070s] symbolically linking /home/aashraey-vaid/turtlebot4_ws/src/build/turtlebot4_controller/package.xml -> /home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_controller/share/turtlebot4_controller
+[5.177s] Invoked command in '/home/aashraey-vaid/turtlebot4_ws/src/build/turtlebot4_controller' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/aashraey-vaid/turtlebot4_ws/src/build/turtlebot4_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/aashraey-vaid/turtlebot4_ws/src/build/turtlebot4_controller/build --no-deps symlink_data

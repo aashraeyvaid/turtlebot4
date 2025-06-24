@@ -1,0 +1,144 @@
+[0.058s] Invoking command in '/home/aashraey-vaid/turtlebot4_ws/src/build/turtlebot4_gz_gui_plugins': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/aashraey-vaid/turtlebot4_ws/src/turtlebot4_simulator/turtlebot4_gz_gui_plugins -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_gui_plugins
+[0.252s] -- The C compiler identification is GNU 13.3.0
+[0.470s] -- The CXX compiler identification is GNU 13.3.0
+[0.532s] -- Detecting C compiler ABI info
+[0.834s] -- Detecting C compiler ABI info - done
+[0.862s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.863s] -- Detecting C compile features
+[0.864s] -- Detecting C compile features - done
+[0.898s] -- Detecting CXX compiler ABI info
+[1.226s] -- Detecting CXX compiler ABI info - done
+[1.268s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.269s] -- Detecting CXX compile features
+[1.270s] -- Detecting CXX compile features - done
+[1.290s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.777s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[2.007s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.186s] -- Found gz_gui_vendor: 0.0.5 (/opt/ros/jazzy/share/gz_gui_vendor/cmake)
+[2.334s] -- Looking for gz-gui8 -- found version 8.4.0
+[2.357s] -- Searching for dependencies of gz-gui8
+[2.757s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so (found version "3.21.12") 
+[2.777s] -- Checking for module 'tinyxml2'
+[2.831s] --   Found tinyxml2, version 10.0.0
+[2.956s] -- Looking for gz-utils2 -- found version 2.2.1
+[2.957s] -- Searching for dependencies of gz-utils2
+[2.966s] -- Looking for gz-math7 -- found version 7.5.2
+[2.967s] -- Searching for dependencies of gz-math7
+[2.967s] -- Looking for gz-utils2 -- found version 2.2.1
+[2.977s] -- Looking for gz-common5 -- found version 5.7.1
+[2.978s] -- Searching for dependencies of gz-common5
+[2.978s] -- Looking for gz-utils2 -- found version 2.2.1
+[2.980s] -- Looking for dlfcn.h - found
+[2.984s] -- Looking for libdl - found
+[2.988s] -- Found DL: TRUE  
+[3.003s] -- Checking for module 'uuid'
+[3.055s] --   Found uuid, version 2.39.3
+[3.177s] -- Found UUID: TRUE  
+[3.179s] -- Searching for <gz-common5> component [profiler]
+[3.188s] -- Looking for gz-common5-profiler -- found version 5.7.1
+[3.189s] -- Searching for dependencies of gz-common5-profiler
+[3.199s] -- Looking for gz-plugin2 -- found version 2.0.4
+[3.200s] -- Searching for dependencies of gz-plugin2
+[3.201s] -- Looking for gz-utils2 -- found version 2.2.1
+[3.201s] -- Searching for dependencies of gz-utils2
+[3.202s] -- Searching for <gz-utils2> component [cli]
+[3.213s] -- Looking for gz-utils2-cli -- found version 2.2.1
+[3.213s] -- Searching for dependencies of gz-utils2-cli
+[3.217s] -- Searching for <gz-plugin2> component [loader]
+[3.225s] -- Looking for gz-plugin2-loader -- found version 2.0.4
+[3.226s] -- Searching for dependencies of gz-plugin2-loader
+[3.227s] -- Searching for <gz-plugin2> component [register]
+[3.236s] -- Looking for gz-plugin2-register -- found version 2.0.4
+[3.236s] -- Searching for dependencies of gz-plugin2-register
+[3.246s] -- Looking for gz-transport13 -- found version 13.4.1
+[3.246s] -- Searching for dependencies of gz-transport13
+[3.386s] -- Config-file not installed for ZeroMQ -- checking for pkg-config
+[3.401s] -- Checking for module 'libzmq >= 4'
+[3.462s] --   Found libzmq, version 4.3.5
+[3.637s] -- Found ZeroMQ: TRUE (Required is at least version "4") 
+[3.664s] -- Looking for gz-utils2 -- found version 2.2.1
+[3.672s] -- Looking for gz-msgs10 -- found version 10.3.2
+[3.673s] -- Searching for dependencies of gz-msgs10
+[3.758s] -- Looking for gz-utils2 -- found version 2.2.1
+[3.759s] -- Looking for gz-math7 -- found version 7.5.2
+[3.795s] -- Looking for gz-rendering8 -- found version 8.2.2
+[3.796s] -- Searching for dependencies of gz-rendering8
+[3.797s] -- Looking for gz-math7 -- found version 7.5.2
+[3.798s] -- Searching for dependencies of gz-math7
+[3.799s] -- Looking for gz-utils2 -- found version 2.2.1
+[3.800s] -- Searching for <gz-math7> component [eigen3]
+[3.819s] -- Looking for gz-math7-eigen3 -- found version 7.5.2
+[3.819s] -- Searching for dependencies of gz-math7-eigen3
+[3.857s] -- Looking for gz-common5 -- found version 5.7.1
+[3.858s] -- Searching for dependencies of gz-common5
+[3.858s] -- Looking for gz-utils2 -- found version 2.2.1
+[3.858s] -- Looking for dlfcn.h - found
+[3.859s] -- Looking for libdl - found
+[3.888s] -- Searching for <gz-common5> component [graphics]
+[3.900s] -- Looking for gz-common5-graphics -- found version 5.7.1
+[3.901s] -- Searching for dependencies of gz-common5-graphics
+[3.902s] -- Looking for gz-math7 -- found version 7.5.2
+[3.924s] -- Found GzAssimp: TRUE (found version "5.3.0") 
+[3.926s] -- Searching for <gz-common5> component [events]
+[3.934s] -- Looking for gz-common5-events -- found version 5.7.1
+[3.935s] -- Searching for dependencies of gz-common5-events
+[3.936s] -- Looking for gz-math7 -- found version 7.5.2
+[3.937s] -- Searching for <gz-common5> component [geospatial]
+[3.948s] -- Looking for gz-common5-geospatial -- found version 5.7.1
+[3.948s] -- Searching for dependencies of gz-common5-geospatial
+[3.950s] -- Looking for gz-math7 -- found version 7.5.2
+[3.950s] -- Looking for gz-common5 -- found version 5.7.1
+[3.954s] -- Looking for gz-plugin2 -- found version 2.0.4
+[3.956s] -- Searching for dependencies of gz-plugin2
+[3.956s] -- Looking for gz-utils2 -- found version 2.2.1
+[3.957s] -- Searching for <gz-plugin2> component [all]
+[3.964s] -- Looking for all libraries of gz-plugin2 -- found version 2.0.4
+[3.966s] -- Looking for gz-plugin2 -- found version 2.0.4
+[3.969s] -- Looking for gz-utils2 -- found version 2.2.1
+[4.039s] -- Found OpenGL: /usr/lib/x86_64-linux-gnu/libOpenGL.so  found components: OpenGL 
+[4.045s] -- Looking for gz-msgs10 -- found version 10.3.2
+[4.131s] -- Found ament_lint_auto: 0.17.2 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[4.592s] -- Looking for gz-gui8 -- found version 8.4.0
+[4.598s] -- Looking for gz-common5 -- found version 5.7.1
+[4.622s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[4.623s] -- Configured cppcheck include dirs: 
+[4.624s] -- Configured cppcheck exclude dirs and/or files: 
+[4.629s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[4.630s] -- Configured cpplint exclude dirs and/or files: 
+[4.634s] -- Added test 'lint_cmake' to check CMake code style
+[4.638s] -- Added test 'xmllint' to check XML markup files
+[4.646s] -- Configuring done (4.6s)
+[4.700s] -- Generating done (0.0s)
+[4.712s] -- Build files have been written to: /home/aashraey-vaid/turtlebot4_ws/src/build/turtlebot4_gz_gui_plugins
+[4.753s] Invoked command in '/home/aashraey-vaid/turtlebot4_ws/src/build/turtlebot4_gz_gui_plugins' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/aashraey-vaid/turtlebot4_ws/src/turtlebot4_simulator/turtlebot4_gz_gui_plugins -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_gui_plugins
+[4.758s] Invoking command in '/home/aashraey-vaid/turtlebot4_ws/src/build/turtlebot4_gz_gui_plugins': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/aashraey-vaid/turtlebot4_ws/src/build/turtlebot4_gz_gui_plugins -- -j8 -l8
+[4.954s] [  0%] Built target Turtlebot4Hmi_autogen_timestamp_deps
+[5.033s] [ 14%] [34m[1mAutomatic MOC for target Turtlebot4Hmi[0m
+[8.024s] [ 14%] Built target Turtlebot4Hmi_autogen
+[8.063s] [ 28%] [34m[1mGenerating qrc_Turtlebot4Hmi.cpp[0m
+[8.230s] [ 42%] [32mBuilding CXX object Turtlebot4Hmi/CMakeFiles/Turtlebot4Hmi.dir/Turtlebot4Hmi_autogen/mocs_compilation.cpp.o[0m
+[8.237s] [ 57%] [32mBuilding CXX object Turtlebot4Hmi/CMakeFiles/Turtlebot4Hmi.dir/qrc_Turtlebot4Hmi.cpp.o[0m
+[8.249s] [ 71%] [32mBuilding CXX object Turtlebot4Hmi/CMakeFiles/Turtlebot4Hmi.dir/Turtlebot4Hmi.cc.o[0m
+[28.369s] [ 85%] [32m[1mLinking CXX shared library libTurtlebot4Hmi.so[0m
+[29.334s] [100%] Built target Turtlebot4Hmi
+[29.379s] Invoked command in '/home/aashraey-vaid/turtlebot4_ws/src/build/turtlebot4_gz_gui_plugins' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/aashraey-vaid/turtlebot4_ws/src/build/turtlebot4_gz_gui_plugins -- -j8 -l8
+[29.415s] Invoking command in '/home/aashraey-vaid/turtlebot4_ws/src/build/turtlebot4_gz_gui_plugins': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/aashraey-vaid/turtlebot4_ws/src/build/turtlebot4_gz_gui_plugins
+[29.440s] -- Install configuration: ""
+[29.442s] -- Execute custom install script
+[29.443s] -- Symlinking: /home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/lib/libTurtlebot4Hmi.so
+[29.478s] -- Symlinking: /home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_gui_plugins/share/ament_index/resource_index/package_run_dependencies/turtlebot4_gz_gui_plugins
+[29.514s] -- Symlinking: /home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_gui_plugins/share/ament_index/resource_index/parent_prefix_path/turtlebot4_gz_gui_plugins
+[29.550s] -- Symlinking: /home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/environment/ament_prefix_path.sh
+[29.584s] -- Symlinking: /home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/environment/ament_prefix_path.dsv
+[29.618s] -- Symlinking: /home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/environment/path.sh
+[29.651s] -- Symlinking: /home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/environment/path.dsv
+[29.684s] -- Symlinking: /home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/local_setup.bash
+[29.717s] -- Symlinking: /home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/local_setup.sh
+[29.751s] -- Symlinking: /home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/local_setup.zsh
+[29.785s] -- Symlinking: /home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/local_setup.dsv
+[29.819s] -- Symlinking: /home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/package.dsv
+[29.851s] -- Symlinking: /home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_gui_plugins/share/ament_index/resource_index/packages/turtlebot4_gz_gui_plugins
+[29.882s] -- Symlinking: /home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/cmake/turtlebot4_gz_gui_pluginsConfig.cmake
+[29.913s] -- Symlinking: /home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/cmake/turtlebot4_gz_gui_pluginsConfig-version.cmake
+[29.942s] -- Symlinking: /home/aashraey-vaid/turtlebot4_ws/src/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/package.xml
+[29.978s] Invoked command in '/home/aashraey-vaid/turtlebot4_ws/src/build/turtlebot4_gz_gui_plugins' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/aashraey-vaid/turtlebot4_ws/src/build/turtlebot4_gz_gui_plugins

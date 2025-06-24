@@ -1,0 +1,24 @@
+[4.289s] Invoking command in '/home/aashraey-vaid/turtlebot4_ws/src/turtlebot4_controller': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/aashraey-vaid/turtlebot4_ws/build/turtlebot4_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlebot4_controller build --build-base /home/aashraey-vaid/turtlebot4_ws/build/turtlebot4_controller/build install --record /home/aashraey-vaid/turtlebot4_ws/build/turtlebot4_controller/install.log --single-version-externally-managed install_data
+[5.668s] running egg_info
+[5.785s] writing ../../build/turtlebot4_controller/turtlebot4_controller.egg-info/PKG-INFO
+[5.786s] writing dependency_links to ../../build/turtlebot4_controller/turtlebot4_controller.egg-info/dependency_links.txt
+[5.787s] writing entry points to ../../build/turtlebot4_controller/turtlebot4_controller.egg-info/entry_points.txt
+[5.788s] writing requirements to ../../build/turtlebot4_controller/turtlebot4_controller.egg-info/requires.txt
+[5.789s] writing top-level names to ../../build/turtlebot4_controller/turtlebot4_controller.egg-info/top_level.txt
+[6.006s] reading manifest file '../../build/turtlebot4_controller/turtlebot4_controller.egg-info/SOURCES.txt'
+[6.009s] writing manifest file '../../build/turtlebot4_controller/turtlebot4_controller.egg-info/SOURCES.txt'
+[6.009s] running build
+[6.011s] running build_py
+[6.011s] copying turtlebot4_controller/test.py -> /home/aashraey-vaid/turtlebot4_ws/build/turtlebot4_controller/build/lib/turtlebot4_controller
+[6.011s] running install
+[6.038s] running install_lib
+[6.138s] copying /home/aashraey-vaid/turtlebot4_ws/build/turtlebot4_controller/build/lib/turtlebot4_controller/test.py -> /home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_controller/lib/python3.12/site-packages/turtlebot4_controller
+[6.142s] byte-compiling /home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_controller/lib/python3.12/site-packages/turtlebot4_controller/test.py to test.cpython-312.pyc
+[6.146s] running install_data
+[6.146s] running install_egg_info
+[6.260s] removing '/home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_controller/lib/python3.12/site-packages/turtlebot4_controller-0.0.0-py3.12.egg-info' (and everything under it)
+[6.260s] Copying ../../build/turtlebot4_controller/turtlebot4_controller.egg-info to /home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_controller/lib/python3.12/site-packages/turtlebot4_controller-0.0.0-py3.12.egg-info
+[6.265s] running install_scripts
+[6.942s] Installing test script to /home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_controller/lib/turtlebot4_controller
+[6.944s] writing list of installed files to '/home/aashraey-vaid/turtlebot4_ws/build/turtlebot4_controller/install.log'
+[7.072s] Invoked command in '/home/aashraey-vaid/turtlebot4_ws/src/turtlebot4_controller' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/aashraey-vaid/turtlebot4_ws/build/turtlebot4_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aashraey-vaid/turtlebot4_ws/install/turtlebot4_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlebot4_controller build --build-base /home/aashraey-vaid/turtlebot4_ws/build/turtlebot4_controller/build install --record /home/aashraey-vaid/turtlebot4_ws/build/turtlebot4_controller/install.log --single-version-externally-managed install_data
